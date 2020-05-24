@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#ff0000",
+      "width": "100%",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#ffffff",
+        "paddingBottom": 10,
+        "paddingHorizontal": 20,
+        "paddingVertical": 10,
+        "width": "100%",
+      }
+    }
+  >
+    Error message
+  </Text>
+</View>
+`;
